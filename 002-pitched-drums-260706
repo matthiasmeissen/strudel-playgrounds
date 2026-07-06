@@ -1,0 +1,9 @@
+// Day 002 - 260706
+// Pitched Drums
+
+stack(
+  sound("bd*4, cl - cl").bank("RolandTR707"),
+  sound("- jazz:2*8"),
+  sound("<wind:0*60 - wind:4*40 wind:8>*2"),
+  sound("hh*12 - rm*4")
+)
