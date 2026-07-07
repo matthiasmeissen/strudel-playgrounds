@@ -1,0 +1,9 @@
+// Day 003 - 260707
+// Repeated Perc
+
+stack(
+  s("hh hh hh hh*4"),
+  s("bd:4 - cp:1"),
+  s("[perc:2*4 -] perc").bank("RolandTR808"),
+  s("- - <wind:2*8 - ->*16")
+)
