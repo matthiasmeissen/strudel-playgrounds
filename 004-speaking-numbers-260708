@@ -1,0 +1,9 @@
+// Day 004 - 260708
+// Speaking Numbers
+
+stack(
+  s("bd mt*2 bd cp").bank("RolandTR707"),
+  s("<numbers:0 numbers:1*4 numbers:2*8 ->*2"),
+  s("<numbers:3*8 numbers:5*4 numbers:6*3 ->*1"),
+  s(`- insect - [crow:2 metal crow] - -, - space:4 - space:4,- wind*6`)
+)
