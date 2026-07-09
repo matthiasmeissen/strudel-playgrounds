@@ -1,0 +1,8 @@
+// Day 005 - 260709
+// Rolling Drums
+
+stack(
+  s("bd bd, hh hh hh hh, <- sd>*4, - cp*<3, - 2> - -").bank("tr909"),
+  s("spacedrum_mt*4, spacedrum_ht*<8, 3>"),
+  s("crow:1*<4 1 - ->*1, <- wind - ->")
+)
