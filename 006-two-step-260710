@@ -1,0 +1,11 @@
+// Day 006 - 260710
+// Two Step
+
+setcpm(174/4)
+
+// Two Step
+stack(
+  s("bd - - - - bd - -").velocity("1 2 1"),
+  s("- sd - sd"),
+  s("hh*8").gain(.8),
+).bank("rolandtr606")
