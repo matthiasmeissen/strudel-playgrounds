@@ -1,0 +1,16 @@
+// Day 007 - 260713
+// DnB Pattern
+
+setcpm(174/4)
+
+// Two Step
+stack(
+  sound(`
+    <[~ ~ ~ ~ sd ~ ~ ~ ~ ~ ~ ~ sd ~ ~ ~] [~ ~ ~ ~ sd ~ ~ ~ ~ ~ ~ ~ sd ~ ~ ~]>,
+    <[bd ~ ~ ~ ~ ~ ~ ~ ~ ~ bd ~ ~ ~ ~ ~] [bd ~ ~ ~ ~ ~ bd ~ ~ ~ bd ~ ~ ~ ~ ~]>
+  `).bank("RolandTR606"),
+
+  sound("[hh*8]").gain("1.0*3 0.2 0.8 0.6").bank("RolandTR606"),
+
+  sound("wind*<8 2> - crow:2 - kalimba*<2 8 14>, east -")
+)
