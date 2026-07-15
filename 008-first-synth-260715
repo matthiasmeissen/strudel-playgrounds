@@ -1,0 +1,8 @@
+// Day 008 - 260715
+// First Synth
+
+stack(
+  sound("bd - bd*<2 1> -, hh hh <hh -> [hh hh:2], sd").bank("RolandTR606"),
+  note("60 - - 48").sound("piano").gain(0.2),
+  note("[30 32 - -]/2 [50 46 - -]/3").sound("saw").delay(0.4)
+)
